@@ -1,0 +1,46 @@
+input[type="button"]{
+    background-color:white;
+    color:grey;
+    border: none;
+    outline:none;
+    width: 10%;
+    height: 50px;
+    margin: 0px;
+}
+input[type="button"]:hover{
+   border-bottom: 3px solid darkgray;
+
+    color:black;
+}
+.section{
+    background-color: #073042 ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    text-align: left;
+    padding-top: 2px;
+    padding-left: 100px;
+    
+}
+#rishi{  
+    background-color: white;
+    color: grey;
+    border: none;
+    outline: none;
+    width: auto;
+
+}
+p{
+    line-height: 1.6em;
+}
+.img{
+    width: 30%;
+
+}
+#secc{
+    width: 50%;
+}
+body{
+
+    margin: 0;
+}
